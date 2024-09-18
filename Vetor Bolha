@@ -10,7 +10,7 @@ int main(){
         scanf("%d", &vt_ord[i]);
     }
 
-    for(i=n-1;i==1;i--){
+    for(i=n-1;i>=1;i--){
         maior=0;
         printf("oi\n");
         for(j=0;j==i;j++){
